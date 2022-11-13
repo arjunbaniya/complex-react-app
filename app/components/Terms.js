@@ -1,5 +1,4 @@
 import React, {useEffect} from 'react'
-import Container from './Container'
 import Page from './Page'
 function Terms(){
    <page />
